@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.log
+
+# Environment
+.env
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LibreOfficeやプレゼン用一時ファイル
+*.~lock.*
+~$*
+
+# PyInstallerビルドファイル（必要なら）
+build/
+dist/
+*.spec
